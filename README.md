@@ -1,4 +1,4 @@
-# HandPose
+# Flask with python
 This proyect is recognition hand pose with flask framework and python
 
 ## Instalación Flask
@@ -80,5 +80,3 @@ set FLASK_DEBUG=1
 Si queremos volver al modo de producción cambiamos los anteriores parametros por `production` y `0`, respectivamente.
 
 Espero que les haya servido de ayuda!
-
-Ahora vamos a añadir el modelo de HandPose.
